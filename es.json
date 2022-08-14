@@ -1,0 +1,55 @@
+{
+    "earn": {
+        "title": "Ganar",
+        "offerw": "Ofertas",
+        "social": "Sociales",
+        "extras": "Adicional",
+        "jfr": "Únete a por Robux"
+    },
+    "promo": {
+        "title": "Promoción",
+        "modalTitle": "Canjee Su Código Promocional",
+        "modalInputLabel": "Código Promocional",
+        "modalButton": "Canjee",
+        "latestRedeem": "Usos Recientes",
+        "code": "Código",
+        "amount": "Importe"
+    },
+    "referrals": {
+        "title": "Remisiones",
+        "modalTitle": "Su Enlace de Referencia",
+        "modalSub": "Comparta el enlace que aparece a continuación y cuando un usuario, que se haya registrado utilizando su enlace, complete una oferta, usted obtendrá",
+        "modalSub2": "el 20% de lo que ganan!",
+        "modalInputLabel": "Enlace",
+        "modalTitle2": "Sus estadísticas",
+        "referred": "Remitido",
+        "earnings": "Ganancias"
+    },
+    "login": {
+        "modalTitle": "Introduce tu nombre de usuario de Roblox",
+        "modalButton": "Continuar",
+        "modalTitle2": "Introduzca su contraseña",
+        "modalButton2": "Inicio de sesión"
+    },
+    "navbar": {
+        "games": "Juegos",
+        "more": "Más"
+    },
+    "pages": {
+        "home": "Inicio",
+        "earn": "Ganar",
+        "deposit": "Depósito",
+        "withdraw": "Retirar",
+        "promo": "Promoción",
+        "referrals": "Remisiones",
+        "rewards": "Recompensas",
+        "video": "Vídeo",
+        "connect": "Conectar",
+        "logout": "Cierre de sesión",
+        "login": "Inicio de sesión",
+        "setPassword": "Establecer Contraseña",
+        "crash": "Crash",
+        "roulette": "Ruleta",
+        "mines": "Minas"
+    }
+}
